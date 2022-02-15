@@ -7,17 +7,12 @@ class Solution {
         return count;
     }
     
-    static boolean even(int num) {
+    public boolean even(int num) {
         int noOfDigits = digits(num);
         return noOfDigits % 2 == 0;
     }
     
-    static int digits(int num) {
-        int countDigits = 0;
-        while (num > 0) {
-            countDigits++;
-            num /= 10;
-        }
-        return countDigits;
+    public int digits(int num) {
+        return (int)(Math.log10(num)) + 1;
     }
 }

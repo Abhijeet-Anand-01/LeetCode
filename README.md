@@ -2,8 +2,6 @@
 # LeetCode - Java
 
 
-|        Topic        |                                                              Challenge                                                              |                                                                                                 Solution                                                                                                                                                                |
-|:-----------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|         Sorting         | [Quicksort 1 - Partition]()                                                         | [Quicksort1Partition.java]()                                               |
-|    Bit Manipulation     | [Bit Manipulation: Lonely Intdfdasdsasdaseger]()         						| [BitManipulationLonelyInteger.java]()        			  |
-                                                                                                                                                                                                                                                                                                                                                                   
+| Topic | Challenge | Solution |
+|:-----:|:---------:|:--------:|
+| Sorting | [Quicksort 1 - Partition]() | [Quicksort1Partition.java]() |                                                                                                        

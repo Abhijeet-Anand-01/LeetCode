@@ -11,4 +11,6 @@
 | &nbsp; | []() | [  ]() |
 | Medium | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/287.%20Find%20the%20Duplicate%20Number.java) |
 | Medium | [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/442.%20Find%20All%20Duplicates%20in%20an%20Array.java) |
+| &nbsp; | []() | [  ]() |
+| Hard | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/41.%20First%20Missing%20Positive.java) |
 | Medium | []() | [ Solution ]() |

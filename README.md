@@ -14,6 +14,7 @@
 | Easy | [169. Majority Element](https://leetcode.com/problems/majority-element/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/169.%20Majority%20Element.java) |
 | Easy | [231. Power of Two](https://leetcode.com/problems/power-of-two/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/231.%20Power%20of%20Two.java) |
 | Easy | [326. Power of Three](https://leetcode.com/problems/power-of-three/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/326.%20Power%20of%20Three.java) |
+| Easy | [342. Power of Four](https://leetcode.com/problems/power-of-four/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/342.%20Power%20of%20Four.java) |
 | Easy | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/344.%20Reverse%20String.java) |
 | Easy | [415. Add Strings](https://leetcode.com/problems/add-strings/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/415.%20Add%20Strings.java) |
 | Easy |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.java) |

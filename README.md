@@ -26,6 +26,7 @@
 | Easy | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/852.%20Peak%20Index%20in%20a%20Mountain%20Array.java) |
 | Easy | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/977.%20Squares%20of%20a%20Sorted%20Array.java) |
 | Easy | [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.java) |
+| Easy | [1725. Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1725.%20Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square.java) |
 | Easy | [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1991.%20Find%20the%20Middle%20Index%20in%20Array.java) |
 | | []() | [  ]() |
 | | []() | [  ]() |

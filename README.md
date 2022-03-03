@@ -15,6 +15,7 @@
 | Easy | [136. Single Number](https://leetcode.com/problems/single-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/136.%20Single%20Number.java) |
 | Easy | [169. Majority Element](https://leetcode.com/problems/majority-element/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/169.%20Majority%20Element.java) |
 | Easy | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/190.%20Reverse%20Bits.java) |
+| Easy | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/191.%20Number%20of%201%20Bits.java) |
 | Easy | [231. Power of Two](https://leetcode.com/problems/power-of-two/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/231.%20Power%20of%20Two.java) |
 | Easy | [326. Power of Three](https://leetcode.com/problems/power-of-three/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/326.%20Power%20of%20Three.java) |
 | Easy | [342. Power of Four](https://leetcode.com/problems/power-of-four/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/342.%20Power%20of%20Four.java) |

@@ -47,7 +47,7 @@
 | Easy | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1480.%20Running%20Sum%20of%201d%20Array.java) |
 | Easy | [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1512.%20Number%20of%20Good%20Pairs.java) |
 | Easy | [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1672.%20Richest%20Customer%20Wealth.java) |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Easy &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [1725. Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1725.%20Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square.java) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Easy &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [1725. Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1725.%20Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square.java) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | Easy | [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1773.%20Count%20Items%20Matching%20a%20Rule.java) |
 | Easy | [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1920.%20Build%20Array%20from%20Permutation.java) |
 | Easy | [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1929.%20Concatenation%20of%20Array.java) |
@@ -61,10 +61,11 @@
 | Medium | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/162.%20Find%20Peak%20Element.java) |
 | Medium | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/287.%20Find%20the%20Duplicate%20Number.java) |
 | Medium | [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/442.%20Find%20All%20Duplicates%20in%20an%20Array.java) |
+| Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
 | Hard | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/41.%20First%20Missing%20Positive.java) |
 | Hard | [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/410.%20Split%20Array%20Largest%20Sum.java) |
 | Hard | [1095. Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/1095.%20Find%20in%20Mountain%20Array.java) |
-| Medium | []() | [ Solution ]() |
+| Hard | []() | [ Solution ]() |

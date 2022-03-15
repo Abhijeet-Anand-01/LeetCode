@@ -39,6 +39,7 @@
 | Easy | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1480.%20Running%20Sum%20of%201d%20Array.java) |
 | Easy | [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1672.%20Richest%20Customer%20Wealth.java) |
 | Easy | [1725. Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1725.%20Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square.java) |
+| Easy | [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1773.%20Count%20Items%20Matching%20a%20Rule.java) |
 | Easy | [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1991.%20Find%20the%20Middle%20Index%20in%20Array.java) |
 | Easy | []() | [ Solution ]() |
 | | []() | [  ]() |

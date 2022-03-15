@@ -14,6 +14,7 @@
 | Easy | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/35.%20Search%20Insert%20Position.java) |
 | Easy | [67. Add Binary](https://leetcode.com/problems/add-binary/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/67.%20Add%20Binary.java) |
 | Easy | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/69.%20Sqrt(x).java) |
+| Easy | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/88.%20Merge%20Sorted%20Array.java) |
 | Easy | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.java) |
 | Easy | [136. Single Number](https://leetcode.com/problems/single-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/136.%20Single%20Number.java) |
 | Easy | [169. Majority Element](https://leetcode.com/problems/majority-element/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/169.%20Majority%20Element.java) |

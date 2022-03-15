@@ -3,9 +3,9 @@ class Solution {
         int maxWealth = Integer.MIN_VALUE;
         for (int[] customer: accounts) {
             int customerWealth = 0;
-            for (int bank : customer) {
-                customerWealth += bank;
-                if (customerWealth > maxWealth)
+            for (int bank = 0; bank < customer.length; bank++) {
+                customerWealth += customer[bank];
+                if (customer.length - 1 == bank && customerWealth > maxWealth)
                     maxWealth = customerWealth;
             }
         }

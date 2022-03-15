@@ -11,6 +11,7 @@
 | Easy | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/26.%20Remove%20Duplicates%20from%20Sorted%20Array.java) |
 | Easy | [27. Remove Element](https://leetcode.com/problems/remove-element/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/27.%20Remove%20Element.java) |
 | Easy | [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/28.%20Implement%20strStr().java) |
+| Easy | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/35.%20Search%20Insert%20Position.java) |
 | Easy | [67. Add Binary](https://leetcode.com/problems/add-binary/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/67.%20Add%20Binary.java) |
 | Easy | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/69.%20Sqrt(x).java) |
 | Easy | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.java) |

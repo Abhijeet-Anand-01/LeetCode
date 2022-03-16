@@ -28,6 +28,7 @@
 | Easy | [342. Power of Four](https://leetcode.com/problems/power-of-four/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/342.%20Power%20of%20Four.java) |
 | Easy | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/344.%20Reverse%20String.java) |
 | Easy | [401. Binary Watch](https://leetcode.com/problems/binary-watch/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/401.%20Binary%20Watch.java) |
+| Easy | [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/414.%20Third%20Maximum%20Number.java) |
 | Easy | [415. Add Strings](https://leetcode.com/problems/add-strings/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/415.%20Add%20Strings.java) |
 | Easy | [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.java) |
 | Easy | [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/461.%20Hamming%20Distance.java) |

@@ -5,7 +5,6 @@ class Solution {
             return 0;
         else {
             int check = nums[0];
-            nums[0] = check;
             for (int i = 1; i < k; i++) {
                 if(check != nums[i]) {
                     ++index;

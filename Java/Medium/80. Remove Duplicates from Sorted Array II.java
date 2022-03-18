@@ -11,7 +11,6 @@ class Solution {
                 count++;
                 index++;
                 nums[index] = nums[i];
-                pre = nums[i];
             }
             else {
                 count = 1;

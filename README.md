@@ -65,6 +65,7 @@
 | Easy | [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1859.%20Sorting%20the%20Sentence.java) |
 | Easy | [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1920.%20Build%20Array%20from%20Permutation.java) |
 | Easy | [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1929.%20Concatenation%20of%20Array.java) |
+| Easy | [1967. Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1967.%20Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word.java) |
 | Easy | [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1991.%20Find%20the%20Middle%20Index%20in%20Array.java) |
 | Easy | []() | [ Solution ]() |
 | | []() | [  ]() |

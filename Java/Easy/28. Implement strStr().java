@@ -1,3 +1,14 @@
+// Approach 1 
+
+class Solution {
+    public int strStr(String haystack, String needle) {
+        return haystack.indexOf(needle);
+    }
+}
+
+
+// Approach 2
+
 class Solution {
     public int strStr(String haystack, String needle) {
         int l1 = haystack.length(), l2 = needle.length();

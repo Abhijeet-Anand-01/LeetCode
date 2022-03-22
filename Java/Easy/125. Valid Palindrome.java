@@ -9,7 +9,7 @@ class Solution {
             if (c[i++] != c[j--])
                 return false;
 		}
-		return true;
+	return true;
     }
 }
 

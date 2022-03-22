@@ -44,6 +44,7 @@
 | Easy | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/724.%20Find%20Pivot%20Index.java) |
 | Easy | [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/832.%20Flipping%20an%20Image.java) |
 | Easy | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/852.%20Peak%20Index%20in%20a%20Mountain%20Array.java) |
+| Easy | [925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/925.%20Long%20Pressed%20Name.java) |
 | Easy | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/977.%20Squares%20of%20a%20Sorted%20Array.java) |
 | Easy | [1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1002.%20Find%20Common%20Characters.java) |
 | Easy | [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1108.%20Defanging%20an%20IP%20Address.java) |

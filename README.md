@@ -13,6 +13,7 @@
 | Easy | [27. Remove Element](https://leetcode.com/problems/remove-element/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/27.%20Remove%20Element.java) |
 | Easy | [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/28.%20Implement%20strStr().java) |
 | Easy | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/35.%20Search%20Insert%20Position.java) |
+| Easy | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/53.%20Maximum%20Subarray.java) |
 | Easy | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/58.%20Length%20of%20Last%20Word.java) |
 | Easy | [67. Add Binary](https://leetcode.com/problems/add-binary/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/67.%20Add%20Binary.java) |
 | Easy | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/69.%20Sqrt(x).java) |

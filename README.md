@@ -33,6 +33,7 @@
 | Easy | [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/338.%20Counting%20Bits.java) |
 | Easy | [342. Power of Four](https://leetcode.com/problems/power-of-four/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/342.%20Power%20of%20Four.java) |
 | Easy | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/344.%20Reverse%20String.java) |
+| Easy | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/374.%20Guess%20Number%20Higher%20or%20Lower.java) |
 | Easy | [401. Binary Watch](https://leetcode.com/problems/binary-watch/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/401.%20Binary%20Watch.java) |
 | Easy | [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/414.%20Third%20Maximum%20Number.java) |
 | Easy | [415. Add Strings](https://leetcode.com/problems/add-strings/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/415.%20Add%20Strings.java) |

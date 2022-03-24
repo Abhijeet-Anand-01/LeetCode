@@ -15,9 +15,8 @@ class Solution {
             }
 
         int[] res = new int[sizeCount];
-        int idx = 0;
         for (int k = 0; k < temp.size(); k++) {
-                res[idx++] = temp.get(k);
+                res[k] = temp.get(k);
         }
         return res;
     }

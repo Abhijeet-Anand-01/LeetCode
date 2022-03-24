@@ -26,6 +26,7 @@
 | Easy | [169. Majority Element](https://leetcode.com/problems/majority-element/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/169.%20Majority%20Element.java) |
 | Easy | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/190.%20Reverse%20Bits.java) |
 | Easy | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/191.%20Number%20of%201%20Bits.java) |
+| Easy | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/217.%20Contains%20Duplicate.java) |
 | Easy | [231. Power of Two](https://leetcode.com/problems/power-of-two/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/231.%20Power%20of%20Two.java) |
 | Easy | [268. Missing Number](https://leetcode.com/problems/missing-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/268.%20Missing%20Number.java) |
 | Easy | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/278.%20First%20Bad%20Version.java) |

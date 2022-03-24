@@ -49,6 +49,7 @@
 | Easy | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/509.%20Fibonacci%20Number.java) |
 | Easy | [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/557.%20Reverse%20Words%20in%20a%20String%20III.java) |
 | Easy | [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/566.%20Reshape%20the%20Matrix.java) |
+| Easy | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/628.%20Maximum%20Product%20of%20Three%20Numbers.java) |
 | Easy | [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/645.%20Set%20Mismatch.java) |
 | Easy | [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/657.%20Robot%20Return%20to%20Origin.java) |
 | Easy | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/680.%20Valid%20Palindrome%20II.java) |

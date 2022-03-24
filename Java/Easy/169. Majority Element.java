@@ -1,3 +1,5 @@
+// Approach 1
+
 class Solution {
     public int majorityElement(int[] nums) {
         int count = 0, majority = 0;
@@ -14,5 +16,15 @@ class Solution {
             }
         }
         return majority;
+    }
+}
+
+
+// Approach 2
+
+class Solution {
+    public int majorityElement(int[] nums) {
+        Arrays.sort(nums);
+        return nums[nums.length / 2];
     }
 }

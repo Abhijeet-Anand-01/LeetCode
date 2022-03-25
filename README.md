@@ -105,6 +105,7 @@
 | Easy | [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1991.%20Find%20the%20Middle%20Index%20in%20Array.java) |
 | Easy | [2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/2000.%20Reverse%20Prefix%20of%20Word.java) |
 | Easy | [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.java) |
+| Easy | [2114. Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.java) |
 | Easy | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |

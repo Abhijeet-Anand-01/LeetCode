@@ -102,6 +102,7 @@
 | Easy | [1967. Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1967.%20Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word.java) |
 | Easy | [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1991.%20Find%20the%20Middle%20Index%20in%20Array.java) |
 | Easy | [2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/2000.%20Reverse%20Prefix%20of%20Word.java) |
+| Easy | [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.java) |
 | Easy | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |

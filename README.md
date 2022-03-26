@@ -66,9 +66,11 @@
 | Easy | [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/905.%20Sort%20Array%20By%20Parity.java) |
 | Easy | [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/922.%20Sort%20Array%20By%20Parity%20II.java) |
 | Easy | [925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/925.%20Long%20Pressed%20Name.java) |
+| Easy | []() | [ Solution ]() |
 | Easy | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/977.%20Squares%20of%20a%20Sorted%20Array.java) |
 | Easy | [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/989.%20Add%20to%20Array-Form%20of%20Integer.java) |
 | Easy | [1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1002.%20Find%20Common%20Characters.java) |
+| Easy | [1051. Height Checker](https://leetcode.com/problems/height-checker/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1051.%20Height%20Checker.java) |
 | Easy | [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1108.%20Defanging%20an%20IP%20Address.java) |
 | Easy | [1217. Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.java) |
 | Easy | [1252. Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1252.%20Cells%20with%20Odd%20Values%20in%20a%20Matrix.java) |

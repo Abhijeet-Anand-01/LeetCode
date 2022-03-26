@@ -49,6 +49,7 @@
 | Easy | [476. Number Complement](https://leetcode.com/problems/number-complement/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/476.%20Number%20Complement.java) |
 | Easy | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/509.%20Fibonacci%20Number.java) |
 | Easy | [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/557.%20Reverse%20Words%20in%20a%20String%20III.java) |
+| Easy | [561. Array Partition I](https://leetcode.com/problems/array-partition-i/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/561.%20Array%20Partition%20I.java) |
 | Easy | [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/566.%20Reshape%20the%20Matrix.java) |
 | Easy | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/628.%20Maximum%20Product%20of%20Three%20Numbers.java) |
 | Easy | [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/645.%20Set%20Mismatch.java) |

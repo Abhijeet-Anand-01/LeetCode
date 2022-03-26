@@ -2,12 +2,9 @@ class Solution {
     public int mostWordsFound(String[] sentences) {
         int max = 0;
         for (String sentence : sentences) {
-            int count = 0;
-            for (String elem : sentence.split(" ")) {
-                count++;
-            }
+            int count = sentence.split(" ").length;
             if (max < count)
-                    max = count;
+                max = count;
         }
         return max;
     }

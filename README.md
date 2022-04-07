@@ -125,6 +125,7 @@
 | Medium | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/39.%20Combination%20Sum.java) |
 | Medium | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/40.%20Combination%20Sum%20II.java) |
 | Medium | [46. Permutations](https://leetcode.com/problems/permutations/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/46.%20Permutations.java) |
+| Medium | [47. Permutations II](https://leetcode.com/problems/permutations-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/47.%20Permutations%20II.java) |
 | Medium | [78. Subsets](https://leetcode.com/problems/subsets/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/78.%20Subsets.java) |
 | Medium | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.java) |
 | Medium | [90. Subsets II](https://leetcode.com/problems/subsets-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/90.%20Subsets%20II.java) |

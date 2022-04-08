@@ -127,6 +127,7 @@
 | Medium | [46. Permutations](https://leetcode.com/problems/permutations/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/46.%20Permutations.java) |
 | Medium | [47. Permutations II](https://leetcode.com/problems/permutations-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/47.%20Permutations%20II.java) |
 | Medium | [78. Subsets](https://leetcode.com/problems/subsets/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/78.%20Subsets.java) |
+| Medium | [79. Word Search](https://leetcode.com/problems/word-search/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/79.%20Word%20Search.java) |
 | Medium | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.java) |
 | Medium | [90. Subsets II](https://leetcode.com/problems/subsets-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/90.%20Subsets%20II.java) |
 | Medium | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/131.%20Palindrome%20Partitioning.java) |

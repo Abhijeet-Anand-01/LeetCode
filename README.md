@@ -27,6 +27,7 @@
 | Easy | [169. Majority Element](https://leetcode.com/problems/majority-element/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/169.%20Majority%20Element.java) |
 | Easy | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/190.%20Reverse%20Bits.java) |
 | Easy | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/191.%20Number%20of%201%20Bits.java) |
+| Easy | [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/203.%20Remove%20Linked%20List%20Elements.java) |
 | Easy | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/217.%20Contains%20Duplicate.java) |
 | Easy | [231. Power of Two](https://leetcode.com/problems/power-of-two/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/231.%20Power%20of%20Two.java) |
 | Easy | [268. Missing Number](https://leetcode.com/problems/missing-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/268.%20Missing%20Number.java) |

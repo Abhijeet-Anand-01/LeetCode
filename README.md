@@ -62,6 +62,7 @@
 | Easy | [704. Binary Search](https://leetcode.com/problems/binary-search/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/704.%20Binary%20Search.java) |
 | Easy | [709. To Lower Case](https://leetcode.com/problems/to-lower-case/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/709.%20To%20Lower%20Case.java) |
 | Easy | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/724.%20Find%20Pivot%20Index.java) |
+| Easy | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/746.%20Min%20Cost%20Climbing%20Stairs.java) |
 | Easy | [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/771.%20Jewels%20and%20Stones.java) |
 | Easy | [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/832.%20Flipping%20an%20Image.java) |
 | Easy | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/852.%20Peak%20Index%20in%20a%20Mountain%20Array.java) |

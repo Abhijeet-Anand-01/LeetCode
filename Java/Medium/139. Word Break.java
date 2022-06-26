@@ -9,7 +9,7 @@ class Solution {
             return memo.get(s);
 
         for (String word : wordDict) {
-            if (s.indexOf(word) == 0) {
+            if (s.indexOf(word) == 0) {     // OR if (s.startsWith(word)) {
                 String suffix = s.substring(word.length());
                 if (wordBreak(suffix, wordDict)) {
                     memo.put(s, true);

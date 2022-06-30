@@ -66,6 +66,7 @@
 | Easy | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/628.%20Maximum%20Product%20of%20Three%20Numbers.java) |
 | Easy | [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/645.%20Set%20Mismatch.java) |
 | Easy | [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/657.%20Robot%20Return%20to%20Origin.java) |
+| Easy | [671. Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree.java) |
 | Easy | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/680.%20Valid%20Palindrome%20II.java) |
 | Easy | [704. Binary Search](https://leetcode.com/problems/binary-search/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/704.%20Binary%20Search.java) |
 | Easy | [709. To Lower Case](https://leetcode.com/problems/to-lower-case/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/709.%20To%20Lower%20Case.java) |

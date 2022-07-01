@@ -22,7 +22,6 @@
 | Easy | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/70.%20Climbing%20Stairs.java) |
 | Easy | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/88.%20Merge%20Sorted%20Array.java) |
 | Easy | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/94.%20Binary%20Tree%20Inorder%20Traversal.java) |
-| Easy | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/98.%20Validate%20Binary%20Search%20Tree.java) |
 | Easy | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.java) |
 | Easy | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/125.%20Valid%20Palindrome.java) |
 | Easy | [136. Single Number](https://leetcode.com/problems/single-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/136.%20Single%20Number.java) |
@@ -151,6 +150,7 @@
 | Medium | [79. Word Search](https://leetcode.com/problems/word-search/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/79.%20Word%20Search.java) |
 | Medium | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.java) |
 | Medium | [90. Subsets II](https://leetcode.com/problems/subsets-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/90.%20Subsets%20II.java) |
+| Medium | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/98.%20Validate%20Binary%20Search%20Tree.java) |
 | Medium | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/131.%20Palindrome%20Partitioning.java) |
 | Medium | [139. Word Break](https://leetcode.com/problems/word-break/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/139.%20Word%20Break.java) |
 | Medium | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/151.%20Reverse%20Words%20in%20a%20String.java) |

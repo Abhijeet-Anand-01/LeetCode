@@ -136,6 +136,7 @@
 | | []() | [  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
+| Medium | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2.%20Add%20Two%20Numbers.java) |
 | Medium | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/7.%20Reverse%20Integer.java) |
 | Medium | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.java) |
 | Medium | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/33.%20Search%20in%20Rotated%20Sorted%20Array.java) |

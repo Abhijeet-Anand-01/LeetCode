@@ -152,6 +152,7 @@
 | Medium | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.java) |
 | Medium | [90. Subsets II](https://leetcode.com/problems/subsets-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/90.%20Subsets%20II.java) |
 | Medium | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/98.%20Validate%20Binary%20Search%20Tree.java) |
+| Medium | [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/113.%20Path%20Sum%20II.java) |
 | Medium | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/131.%20Palindrome%20Partitioning.java) |
 | Medium | [139. Word Break](https://leetcode.com/problems/word-break/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/139.%20Word%20Break.java) |
 | Medium | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/151.%20Reverse%20Words%20in%20a%20String.java) |

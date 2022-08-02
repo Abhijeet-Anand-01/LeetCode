@@ -8,7 +8,6 @@
 | Easy | []() | [ Solution ]() |
 | Easy | []() | [ Solution ]() |
 | Easy | []() | [ Solution ]() |
-| Easy | []() | [ Solution ]() |
 | Easy | [1. Two Sum](https://leetcode.com/problems/two-sum/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1.%20Two%20Sum.java) |
 | Easy | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/13.%20Roman%20to%20Integer.java) |
 | Easy | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/14.%20Longest%20Common%20Prefix.java) |
@@ -45,6 +44,7 @@
 | Easy | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/226.%20Invert%20Binary%20Tree.java) |
 | Easy | [231. Power of Two](https://leetcode.com/problems/power-of-two/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/231.%20Power%20of%20Two.java) |
 | Easy | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/234.%20Palindrome%20Linked%20List.java) |
+| Easy | [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/257.%20Binary%20Tree%20Paths.java) |
 | Easy | [268. Missing Number](https://leetcode.com/problems/missing-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/268.%20Missing%20Number.java) |
 | Easy | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/278.%20First%20Bad%20Version.java) |
 | Easy | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/283.%20Move%20Zeroes.java) |

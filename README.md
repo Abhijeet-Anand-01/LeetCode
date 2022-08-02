@@ -7,6 +7,9 @@
 |  | []() | [  ]() |
 | Easy | []() | [ Solution ]() |
 | Easy | []() | [ Solution ]() |
+| Easy | []() | [ Solution ]() |
+| Easy | []() | [ Solution ]() |
+| Easy | []() | [ Solution ]() |
 | Easy | [1. Two Sum](https://leetcode.com/problems/two-sum/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1.%20Two%20Sum.java) |
 | Easy | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/13.%20Roman%20to%20Integer.java) |
 | Easy | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/14.%20Longest%20Common%20Prefix.java) |
@@ -69,6 +72,7 @@
 | Easy | [561. Array Partition I](https://leetcode.com/problems/array-partition-i/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/561.%20Array%20Partition%20I.java) |
 | Easy | [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/566.%20Reshape%20the%20Matrix.java) |
 | Easy | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/572.%20Subtree%20of%20Another%20Tree.java) |
+| Easy | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/617.%20Merge%20Two%20Binary%20Trees.java) |
 | Easy | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/628.%20Maximum%20Product%20of%20Three%20Numbers.java) |
 | Easy | [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/645.%20Set%20Mismatch.java) |
 | Easy | [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/657.%20Robot%20Return%20to%20Origin.java) |

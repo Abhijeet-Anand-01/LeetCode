@@ -9,7 +9,7 @@
 | Easy | []() | [ Solution ]() |
 | Easy | []() | [ Solution ]() |
 | Easy | []() | [ Solution ]() |
-| Easy | []() | [ Solution ]() |
+
 | Easy | [1. Two Sum](https://leetcode.com/problems/two-sum/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1.%20Two%20Sum.java) |
 | Easy | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/13.%20Roman%20to%20Integer.java) |
 | Easy | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/14.%20Longest%20Common%20Prefix.java) |
@@ -90,6 +90,7 @@
 | Easy | [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/905.%20Sort%20Array%20By%20Parity.java) |
 | Easy | [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/922.%20Sort%20Array%20By%20Parity%20II.java) |
 | Easy | [925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/925.%20Long%20Pressed%20Name.java) |
+| Easy | [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/938.%20Range%20Sum%20of%20BST.java) |
 | Easy | [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/976.%20Largest%20Perimeter%20Triangle.java) |
 | Easy | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/977.%20Squares%20of%20a%20Sorted%20Array.java) |
 | Easy | [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/989.%20Add%20to%20Array-Form%20of%20Integer.java) |

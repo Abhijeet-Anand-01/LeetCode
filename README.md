@@ -6,7 +6,6 @@
 |:-----:|:---------:|:--------:|
 |  | []() | [  ]() |
 | Easy | []() | [ Solution ]() |
-| Easy | []() | [ Solution ]() |
 | Easy | [1. Two Sum](https://leetcode.com/problems/two-sum/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1.%20Two%20Sum.java) |
 | Easy | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/13.%20Roman%20to%20Integer.java) |
 | Easy | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/14.%20Longest%20Common%20Prefix.java) |
@@ -28,6 +27,7 @@
 | Easy | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/101.%20Symmetric%20Tree.java) |
 | Easy | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/104.%20Maximum%20Depth%20of%20Binary%20Tree.java) |
 | Easy | [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.java) |
+| Easy | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/110.%20Balanced%20Binary%20Tree.java) |
 | Easy | [112. Path Sum](https://leetcode.com/problems/path-sum/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/112.%20Path%20Sum.java) |
 | Easy | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.java) |
 | Easy | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/125.%20Valid%20Palindrome.java) |

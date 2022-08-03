@@ -14,11 +14,10 @@
  * }
  */
 class Solution {
-    Integer res; 
-    Integer prev;
+    int res = Integer.MAX_VALUE;
+    Integer prev = null;
+    
     public int getMinimumDifference(TreeNode root) {
-        res = Integer.MAX_VALUE;
-        prev = null;
         inorder(root);
         return res;
     }

@@ -1,17 +1,31 @@
+// Approach 1
+
 class Solution {
     public int[] sortedSquares(int[] nums) {
-        int length = nums.length;
-        int[] result = new int[length];
-        int i = 0, j = length - 1;
-        for (int pos = length - 1; pos >= 0; pos--) {
-            if (Math.abs(nums[i]) > Math.abs(nums[j])) {
-                result[pos] = nums[i] * nums[i];
-                i++;
-            } else {
-                result[pos] = nums[j] * nums[j];
-                j--;
-            }
+        int n = nums.length, start = 0, end = n - 1;
+        int[] result = new int[n];
+        
+        for (int i = n - 1; i >= 0 ; i--) {
+            if (Math.abs(nums[start]) > nums[end])
+                result[i] = nums[start] * nums[start++];
+            
+            else result[i] = nums[end] * nums[end--];
         }
+        
+        return result;
+    }
+}
+
+
+// Approach 2 : Conditional
+
+class Solution {
+    public int[] sortedSquares(int[] nums) {
+        int n = nums.length, start = 0, end = n - 1;
+        int[] result = new int[n];
+        
+        for (int i = n - 1; i >= 0 ; i--) {
+            result[i] = Math.abs(nums[start]) > nums[end] ? nums[start] * nums[start++] : nums[end] * nums[end--]; 
         return result;
     }
 }

@@ -27,6 +27,7 @@
 | Easy | [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.java) |
 | Easy | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/110.%20Balanced%20Binary%20Tree.java) |
 | Easy | [112. Path Sum](https://leetcode.com/problems/path-sum/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/112.%20Path%20Sum.java) |
+| Easy | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/118.%20Pascal's%20Triangle.java) |
 | Easy | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.java) |
 | Easy | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/125.%20Valid%20Palindrome.java) |
 | Easy | [136. Single Number](https://leetcode.com/problems/single-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/136.%20Single%20Number.java) |

@@ -1,3 +1,5 @@
+// Approach 1 : Brute force
+
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         int answer[] = new int[2];  
@@ -15,5 +17,21 @@ class Solution {
             }
         }
         return answer;
+    }
+}
+
+
+// Approach 2 : Linear time
+
+class Solution {
+    public int[] twoSum(int[] nums, int target) {
+        Map<Integer, Integer> hm = new HashMap<>();
+        for (int i = 0; i < nums.length; i++) {
+            int diff = target - nums[i];
+            if (hm.containsKey(diff))
+                return new int[]{hm.get(diff), i};
+            hm.put(nums[i], i);
+        }
+        return new int[]{0, 0};
     }
 }

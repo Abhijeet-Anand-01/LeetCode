@@ -60,6 +60,7 @@
 | Easy | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/374.%20Guess%20Number%20Higher%20or%20Lower.java) |
 | Easy | [401. Binary Watch](https://leetcode.com/problems/binary-watch/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/401.%20Binary%20Watch.java) |
 | Easy | [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/404.%20Sum%20of%20Left%20Leaves.java) |
+| Easy | [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/409.%20Longest%20Palindrome.javax) |
 | Easy | [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/414.%20Third%20Maximum%20Number.java) |
 | Easy | [415. Add Strings](https://leetcode.com/problems/add-strings/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/415.%20Add%20Strings.java) |
 | Easy | [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/441.%20Arranging%20Coins.java) |

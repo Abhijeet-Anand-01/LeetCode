@@ -37,7 +37,7 @@ class Solution {
         while (start < end) {
             if (s.charAt(start) != s.charAt(end)) {
                 if(flag)
-                    return isPalindrome(s, start + 1, end, !flag) || isPalindrome(s, start, end - 1, !flag);
+                    return isPalindrome(s, start + 1, end, false) || isPalindrome(s, start, end - 1, false);
                 return false;
             }
             start++;

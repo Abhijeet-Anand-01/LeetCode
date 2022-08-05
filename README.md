@@ -44,6 +44,7 @@
 | Easy | [231. Power of Two](https://leetcode.com/problems/power-of-two/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/231.%20Power%20of%20Two.java) |
 | Easy | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/234.%20Palindrome%20Linked%20List.java) |
 | Easy | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.java) |
+| Easy | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/242.%20Valid%20Anagram.java) |
 | Easy | [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/257.%20Binary%20Tree%20Paths.java) |
 | Easy | [268. Missing Number](https://leetcode.com/problems/missing-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/268.%20Missing%20Number.java) |
 | Easy | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/278.%20First%20Bad%20Version.java) |

@@ -1,3 +1,5 @@
+// Approach 1
+
 class Solution {
     public boolean validPalindrome(String s) {
         int i = 0, j = s.length() - 1;
@@ -18,6 +20,28 @@ class Solution {
             }
             i++;
             j--;
+        }
+        return true;
+    }
+}
+
+
+// Approach 2 : Code Optimized
+
+class Solution {
+    public boolean validPalindrome(String s) {
+        return isPalindrome(s, 0, s.length() - 1, true);
+    }
+    
+    private boolean isPalindrome(String s, int start, int end, boolean flag) {
+        while (start < end) {
+            if (s.charAt(start) != s.charAt(end)) {
+                if(flag)
+                    return isPalindrome(s, start + 1, end, !flag) || isPalindrome(s, start, end - 1, !flag);
+                return false;
+            }
+            start++;
+            end--;
         }
         return true;
     }

@@ -11,10 +11,11 @@ class Solution {
             if ( j >= 0) {
                 carry += num2.charAt(j--) - '0';
             }
-            sb.append(carry % 10);
+//             sb.append(carry % 10);
+            sb.insert(0, carry % 10);
             carry /= 10;
         }
-
-        return sb.reverse().toString();
+            return sb.toString();
+//         return sb.reverse().toString();
     }
 }

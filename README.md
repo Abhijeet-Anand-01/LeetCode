@@ -8,8 +8,8 @@
 | Easy | []() | [ Solution ]() |
 | Easy | []() | [ Solution ]() |
 | Easy | []() | [ Solution ]() |
-| Easy | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/9.%20Palindrome%20Number.java) |
 | Easy | [1. Two Sum](https://leetcode.com/problems/two-sum/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1.%20Two%20Sum.java) |
+| Easy | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/9.%20Palindrome%20Number.java) |
 | Easy | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/13.%20Roman%20to%20Integer.java) |
 | Easy | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/14.%20Longest%20Common%20Prefix.java) |
 | Easy | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/20.%20Valid%20Parentheses.java) |

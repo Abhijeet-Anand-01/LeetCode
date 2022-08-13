@@ -155,6 +155,7 @@
 | | []() | [  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
+| Medium | []() | [ Solution ]() |
 | Medium | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2.%20Add%20Two%20Numbers.java) |
 | Medium | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/7.%20Reverse%20Integer.java) |
 | Medium | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.java) |
@@ -172,6 +173,7 @@
 | Medium | [78. Subsets](https://leetcode.com/problems/subsets/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/78.%20Subsets.java) |
 | Medium | [79. Word Search](https://leetcode.com/problems/word-search/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/79.%20Word%20Search.java) |
 | Medium | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.java) |
+| Medium | [89. Gray Code](https://leetcode.com/problems/gray-code/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/89.%20Gray%20Code.java) |
 | Medium | [90. Subsets II](https://leetcode.com/problems/subsets-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/90.%20Subsets%20II.java) |
 | Medium | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/98.%20Validate%20Binary%20Search%20Tree.java) |
 | Medium | [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/113.%20Path%20Sum%20II.java) |

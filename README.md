@@ -168,6 +168,7 @@
 | Medium | [46. Permutations](https://leetcode.com/problems/permutations/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/46.%20Permutations.java) |
 | Medium | [47. Permutations II](https://leetcode.com/problems/permutations-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/47.%20Permutations%20II.java) |
 | Medium | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/53.%20Maximum%20Subarray.java) |
+| Medium | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/54.%20Spiral%20Matrix.java) |
 | Medium | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/56.%20Merge%20Intervals.java) |
 | Medium | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/62.%20Unique%20Paths.java) |
 | Medium | [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/63.%20Unique%20Paths%20II.java) |

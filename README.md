@@ -167,6 +167,7 @@
 | Medium | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.java) |
 | Medium | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/39.%20Combination%20Sum.java) |
 | Medium | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/40.%20Combination%20Sum%20II.java) |
+| Medium | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/45.%20Jump%20Game%20II.java) |
 | Medium | [46. Permutations](https://leetcode.com/problems/permutations/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/46.%20Permutations.java) |
 | Medium | [47. Permutations II](https://leetcode.com/problems/permutations-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/47.%20Permutations%20II.java) |
 | Medium | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/48.%20Rotate%20Image.java) |

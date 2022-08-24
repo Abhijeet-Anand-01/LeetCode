@@ -16,7 +16,6 @@ class Solution {
 }
 
 
-
 // Approach 2 : Using Array
 
 public class Solution {

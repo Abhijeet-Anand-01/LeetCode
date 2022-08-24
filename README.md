@@ -156,6 +156,7 @@
 | | []() | [  ]() |
 | | []() | [  ]() |
 | Medium | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2.%20Add%20Two%20Numbers.java) |
+| Medium | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/3.%20Longest%20Substring%20Without%20Repeating%20Characters.java) |
 | Medium | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/5.%20Longest%20Palindromic%20Substring.java) |
 | Medium | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/7.%20Reverse%20Integer.java) |
 | Medium | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/11.%20Container%20With%20Most%20Water.java) |
@@ -208,6 +209,8 @@
 | Medium | [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards.java) |
 | Medium | [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/1465.%20Maximum%20Area%20of%20a%20Piece%20of%20Cake%20After%20Horizontal%20and%20Vertical%20Cuts.java) |
 | Medium | [1922. Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/1922.%20Count%20Good%20Numbers.java) |
+| Medium | []() | [ Solution ]() |
+| Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |

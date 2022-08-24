@@ -71,6 +71,7 @@
 | Easy | [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/455.%20Assign%20Cookies.java) |
 | Easy | [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/461.%20Hamming%20Distance.java) |
 | Easy | [476. Number Complement](https://leetcode.com/problems/number-complement/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/476.%20Number%20Complement.java) |
+| Easy | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/485.%20Max%20Consecutive%20Ones.java) |
 | Easy | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/496.%20Next%20Greater%20Element%20I.java) |
 | Easy | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/509.%20Fibonacci%20Number.java) |
 | Easy | [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/530.%20Minimum%20Absolute%20Difference%20in%20BST.java) |

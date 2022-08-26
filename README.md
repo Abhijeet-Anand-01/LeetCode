@@ -61,6 +61,7 @@
 | Easy | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/350.%20Intersection%20of%20Two%20Arrays%20II.java) |
 | Easy | [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/367.%20Valid%20Perfect%20Square.java) |
 | Easy | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/374.%20Guess%20Number%20Higher%20or%20Lower.java) |
+| Easy | [383. Ransom Note](https://leetcode.com/problems/ransom-note/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/383.%20Ransom%20Note.java) |
 | Easy | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/387.%20First%20Unique%20Character%20in%20a%20String.java) |
 | Easy | [401. Binary Watch](https://leetcode.com/problems/binary-watch/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/401.%20Binary%20Watch.java) |
 | Easy | [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/404.%20Sum%20of%20Left%20Leaves.java) |

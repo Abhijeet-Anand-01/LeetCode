@@ -103,6 +103,7 @@
 | Easy | [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/922.%20Sort%20Array%20By%20Parity%20II.java) |
 | Easy | [925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/925.%20Long%20Pressed%20Name.java) |
 | Easy | [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/938.%20Range%20Sum%20of%20BST.java) |
+| Easy | [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/941.%20Valid%20Mountain%20Array.java) |
 | Easy | [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/953.%20Verifying%20an%20Alien%20Dictionary.java) |
 | Easy | [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/976.%20Largest%20Perimeter%20Triangle.java) |
 | Easy | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/977.%20Squares%20of%20a%20Sorted%20Array.java) |

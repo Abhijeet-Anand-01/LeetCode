@@ -187,6 +187,7 @@
 | Medium | [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/63.%20Unique%20Paths%20II.java) |
 | Medium | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/64.%20Minimum%20Path%20Sum.java) |
 | Medium | [71. Simplify Path](https://leetcode.com/problems/simplify-path/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/71.%20Simplify%20Path.java) |
+| Medium | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/73.%20Set%20Matrix%20Zeroes.java) |
 | Medium | [77. Combinations](https://leetcode.com/problems/combinations/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/77.%20Combinations.java) |
 | Medium | [78. Subsets](https://leetcode.com/problems/subsets/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/78.%20Subsets.java) |
 | Medium | [79. Word Search](https://leetcode.com/problems/word-search/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/79.%20Word%20Search.java) |

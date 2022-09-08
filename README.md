@@ -240,6 +240,7 @@
 | Medium | [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.java) |
 | Medium | [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/1465.%20Maximum%20Area%20of%20a%20Piece%20of%20Cake%20After%20Horizontal%20and%20Vertical%20Cuts.java) |
 | Medium | [1922. Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/1922.%20Count%20Good%20Numbers.java) |
+| Medium | [2396. Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2396.%20Strictly%20Palindromic%20Number.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |

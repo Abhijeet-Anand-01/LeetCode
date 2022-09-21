@@ -234,6 +234,7 @@
 | Medium | [889. Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal.java) |
 | Medium | [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/948.%20Bag%20of%20Tokens.java) |
 | Medium | [967. Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/967.%20Numbers%20With%20Same%20Consecutive%20Differences.java) |
+| Medium | [985. Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/985.%20Sum%20of%20Even%20Numbers%20After%20Queries.java) |
 | Medium | [1010. Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/1010.%20Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060.java) |
 | Medium | [1169. Invalid Transactions](https://leetcode.com/problems/invalid-transactions/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/1169.%20Invalid%20Transactions.java) |
 | Medium | [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.java) |
@@ -245,7 +246,6 @@
 | Medium | [1922. Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/1922.%20Count%20Good%20Numbers.java) |
 | Medium | [2007. Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2007.%20Find%20Original%20Array%20From%20Doubled%20Array.java) |
 | Medium | [2396. Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2396.%20Strictly%20Palindromic%20Number.java) |
-| Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |

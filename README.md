@@ -231,6 +231,7 @@
 | Medium | [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/622.%20Design%20Circular%20Queue.java) |
 | Medium | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/695.%20Max%20Area%20of%20Island.java) |
 | Medium | [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/718.%20Maximum%20Length%20of%20Repeated%20Subarray.java) |
+| Medium | [838. Push Dominoes](https://leetcode.com/problems/push-dominoes/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/838.%20Push%20Dominoes.java) |
 | Medium | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/852.%20Peak%20Index%20in%20a%20Mountain%20Array.java) |
 | Medium | [869. Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/869.%20Reordered%20Power%20of%202.java) |
 | Medium | [889. Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal.java) |
@@ -250,7 +251,6 @@
 | Medium | [2007. Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2007.%20Find%20Original%20Array%20From%20Doubled%20Array.java) |
 | Medium | [2396. Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2396.%20Strictly%20Palindromic%20Number.java) |
 | Medium | [2410. Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2410.%20Maximum%20Matching%20of%20Players%20With%20Trainers.java) |
-| Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |

@@ -169,6 +169,7 @@
 | Medium | [15. 3Sum](https://leetcode.com/problems/3sum/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/15.%203Sum.java) |
 | Medium | [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/16.%203Sum%20Closest.java) |
 | Medium | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.java) |
+| Medium | [19. Remove Nth Node From End of List](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.java) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.java) |
 | Medium | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/22.%20Generate%20Parentheses.java) |
 | Medium | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.java) |
 | Medium | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/31.%20Next%20Permutation.java) |
@@ -251,6 +252,7 @@
 | Medium | [2007. Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2007.%20Find%20Original%20Array%20From%20Doubled%20Array.java) |
 | Medium | [2396. Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2396.%20Strictly%20Palindromic%20Number.java) |
 | Medium | [2410. Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2410.%20Maximum%20Matching%20of%20Players%20With%20Trainers.java) |
+| Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |

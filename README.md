@@ -232,6 +232,7 @@
 | Medium | [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/622.%20Design%20Circular%20Queue.java) |
 | Medium | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/695.%20Max%20Area%20of%20Island.java) |
 | Medium | [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/718.%20Maximum%20Length%20of%20Repeated%20Subarray.java) |
+| Medium | [763. Partition Labels](https://leetcode.com/problems/partition-labels/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/763.%20Partition%20Labels.java) |
 | Medium | [838. Push Dominoes](https://leetcode.com/problems/push-dominoes/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/838.%20Push%20Dominoes.java) |
 | Medium | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/852.%20Peak%20Index%20in%20a%20Mountain%20Array.java) |
 | Medium | [869. Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/869.%20Reordered%20Power%20of%202.java) |

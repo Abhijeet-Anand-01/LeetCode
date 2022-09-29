@@ -231,6 +231,7 @@
 | Medium | [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/532.%20K-diff%20Pairs%20in%20an%20Array.java) |
 | Medium | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/560.%20Subarray%20Sum%20Equals%20K.java) |
 | Medium | [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/622.%20Design%20Circular%20Queue.java) |
+| Medium | [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/658.%20Find%20K%20Closest%20Elements.java) |
 | Medium | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/695.%20Max%20Area%20of%20Island.java) |
 | Medium | [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/718.%20Maximum%20Length%20of%20Repeated%20Subarray.java) |
 | Medium | [763. Partition Labels](https://leetcode.com/problems/partition-labels/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/763.%20Partition%20Labels.java) |

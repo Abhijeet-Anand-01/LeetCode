@@ -275,5 +275,6 @@
 | Hard | [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/410.%20Split%20Array%20Largest%20Sum.java) |
 | Hard | [732. My Calendar III](https://leetcode.com/problems/my-calendar-iii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/732.%20My%20Calendar%20III.java) |
 | Hard | [1095. Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/1095.%20Find%20in%20Mountain%20Array.java) |
+| Hard | [1335. Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/1335.%20Minimum%20Difficulty%20of%20a%20Job%20Schedule.java) |
 | Hard | [1531. String Compression II](https://leetcode.com/problems/string-compression-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/1531.%20String%20Compression%20II.java) |
 | Hard | []() | [ Solution ]() |

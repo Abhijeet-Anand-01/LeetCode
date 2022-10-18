@@ -131,6 +131,7 @@
 | Easy | [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1470.%20Shuffle%20the%20Array.java) |
 | Easy | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1480.%20Running%20Sum%20of%201d%20Array.java) |
 | Easy | [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1512.%20Number%20of%20Good%20Pairs.java) |
+| Easy | [1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.java) |
 | Easy | [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1528.%20Shuffle%20String.java) |
 | Easy | [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1539.%20Kth%20Missing%20Positive%20Number.java) |
 | Easy | [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1572.%20Matrix%20Diagonal%20Sum.java) |

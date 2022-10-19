@@ -239,6 +239,7 @@
 | Medium | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/560.%20Subarray%20Sum%20Equals%20K.java) |
 | Medium | [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/622.%20Design%20Circular%20Queue.java) |
 | Medium | [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/623.%20Add%20One%20Row%20to%20Tree.java) |
+| Medium | [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/692.%20Top%20K%20Frequent%20Words.java) |
 | Medium | [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/658.%20Find%20K%20Closest%20Elements.java) |
 | Medium | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/695.%20Max%20Area%20of%20Island.java) |
 | Medium | [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/718.%20Maximum%20Length%20of%20Repeated%20Subarray.java) |

@@ -5,7 +5,6 @@
 | Difficulty | Challenge | Solution |
 |:-----:|:---------:|:--------:|
 |  | []() | [  ]() |
-| Easy | []() | [ Solution ]() |
 | Easy | [1. Two Sum](https://leetcode.com/problems/two-sum/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1.%20Two%20Sum.java) |
 | Easy | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/9.%20Palindrome%20Number.java) |
 | Easy | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/13.%20Roman%20to%20Integer.java) |
@@ -159,6 +158,7 @@
 | Easy | [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1991.%20Find%20the%20Middle%20Index%20in%20Array.java) |
 | Easy | [2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/2000.%20Reverse%20Prefix%20of%20Word.java) |
 | Easy | [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.java) |
+| Easy | [2068. Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/2068.%20Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent.java) |
 | Easy | [2114. Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.java) |
 | Easy | [2395. Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/2395.%20Find%20Subarrays%20With%20Equal%20Sum.java) |
 | Easy | [2418. Sort the People](https://leetcode.com/problems/sort-the-people/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/2418.%20Sort%20the%20People.java) |

@@ -272,6 +272,7 @@
 | Medium | [2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions.java) |
 | Medium | [2396. Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2396.%20Strictly%20Palindromic%20Number.java) |
 | Medium | [2410. Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2410.%20Maximum%20Matching%20of%20Players%20With%20Trainers.java) |
+| Medium | [2452. Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2452.%20Words%20Within%20Two%20Edits%20of%20Dictionary.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |

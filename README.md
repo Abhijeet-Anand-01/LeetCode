@@ -95,6 +95,7 @@
 | Easy | [733. Flood Fill](https://leetcode.com/problems/flood-fill/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/733.%20Flood%20Fill.java) |
 | Easy | [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.java) |
 | Easy | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/746.%20Min%20Cost%20Climbing%20Stairs.java) |
+| Easy | [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/766.%20Toeplitz%20Matrix.java) |
 | Easy | [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/771.%20Jewels%20and%20Stones.java) |
 | Easy | [783. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/783.%20Minimum%20Distance%20Between%20BST%20Nodes.java) |
 | Easy | [796. Rotate String](https://leetcode.com/problems/rotate-string/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/796.%20Rotate%20String.java) |

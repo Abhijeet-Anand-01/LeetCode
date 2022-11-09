@@ -257,6 +257,7 @@
 | Medium | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/852.%20Peak%20Index%20in%20a%20Mountain%20Array.java) |
 | Medium | [869. Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/869.%20Reordered%20Power%20of%202.java) |
 | Medium | [889. Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal.java) |
+| Medium | [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/901.%20Online%20Stock%20Span.java) |
 | Medium | [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/948.%20Bag%20of%20Tokens.java) |
 | Medium | [967. Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/967.%20Numbers%20With%20Same%20Consecutive%20Differences.java) |
 | Medium | [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/981.%20Time%20Based%20Key-Value%20Store.java) |
@@ -279,7 +280,6 @@
 | Medium | [2396. Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2396.%20Strictly%20Palindromic%20Number.java) |
 | Medium | [2410. Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2410.%20Maximum%20Matching%20of%20Players%20With%20Trainers.java) |
 | Medium | [2452. Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2452.%20Words%20Within%20Two%20Edits%20of%20Dictionary.java) |
-| Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |

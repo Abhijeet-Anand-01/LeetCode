@@ -113,6 +113,7 @@
 | Easy | [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/989.%20Add%20to%20Array-Form%20of%20Integer.java) |
 | Easy | [1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1002.%20Find%20Common%20Characters.java) |
 | Easy | [1025. Divisor Game](https://leetcode.com/problems/divisor-game/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1025.%20Divisor%20Game.java) |
+| Easy | [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.java) |
 | Easy | [1051. Height Checker](https://leetcode.com/problems/height-checker/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1051.%20Height%20Checker.java) |
 | Easy | [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1108.%20Defanging%20an%20IP%20Address.java) |
 | Easy | [1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1122.%20Relative%20Sort%20Array.java) |
@@ -166,7 +167,6 @@
 | Easy | [2395. Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/2395.%20Find%20Subarrays%20With%20Equal%20Sum.java) |
 | Easy | [2418. Sort the People](https://leetcode.com/problems/sort-the-people/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/2418.%20Sort%20the%20People.java) |
 | Easy | [2451. Odd String Difference](https://leetcode.com/problems/odd-string-difference/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/2451.%20Odd%20String%20Difference.java) |
-| Easy | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |

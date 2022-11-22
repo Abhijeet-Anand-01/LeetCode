@@ -233,6 +233,7 @@
 | Medium | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.java) |
 | Medium | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/238.%20Product%20of%20Array%20Except%20Self.java) |
 | Medium | [260. Single Number III](https://leetcode.com/problems/single-number-iii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/260.%20Single%20Number%20III.java) |
+| Medium | [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/279.%20Perfect%20Squares.java) |
 | Medium | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/287.%20Find%20the%20Duplicate%20Number.java) |
 | Medium | [289. Game of Life](https://leetcode.com/problems/game-of-life/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/289.%20Game%20of%20Life.java) |
 | Medium | [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/334.%20Increasing%20Triplet%20Subsequence.java) |
@@ -280,6 +281,7 @@
 | Medium | [2396. Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2396.%20Strictly%20Palindromic%20Number.java) |
 | Medium | [2410. Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2410.%20Maximum%20Matching%20of%20Players%20With%20Trainers.java) |
 | Medium | [2452. Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2452.%20Words%20Within%20Two%20Edits%20of%20Dictionary.java) |
+| Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |

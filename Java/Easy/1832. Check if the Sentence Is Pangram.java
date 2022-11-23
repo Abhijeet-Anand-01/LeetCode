@@ -30,3 +30,19 @@ class Solution {
         return seen == ((1 << 26) - 1);
     }
 }
+
+
+
+//  Approach 2: bit manipulation
+
+class Solution {
+    public boolean checkIfPangram(String sentence) {
+        
+        HashSet<Character> hs = new HashSet<Character>();
+        for (char c : sentence.toCharArray())
+            hs.add(c);
+
+        if (hs.size() == 26) return true;
+        else return false;
+    }
+}

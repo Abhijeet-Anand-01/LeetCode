@@ -296,6 +296,7 @@
 | Hard | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/295.%20Find%20Median%20from%20Data%20Stream.java) |
 | Hard | [336. Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/336.%20Palindrome%20Pairs.java) |
 | Hard | [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/410.%20Split%20Array%20Largest%20Sum.java) |
+| Hard | [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/446.%20Arithmetic%20Slices%20II%20-%20Subsequence.java) |
 | Hard | [732. My Calendar III](https://leetcode.com/problems/my-calendar-iii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/732.%20My%20Calendar%20III.java) |
 | Hard | [899. Orderly Queue](https://leetcode.com/problems/orderly-queue/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/899.%20Orderly%20Queue.java) |
 | Hard | [1095. Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/1095.%20Find%20in%20Mountain%20Array.java) |

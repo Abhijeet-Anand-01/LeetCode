@@ -238,6 +238,7 @@
 | Medium | [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/279.%20Perfect%20Squares.java) |
 | Medium | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/287.%20Find%20the%20Duplicate%20Number.java) |
 | Medium | [289. Game of Life](https://leetcode.com/problems/game-of-life/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/289.%20Game%20of%20Life.java) |
+| Medium | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/328.%20Odd%20Even%20Linked%20List.java) |
 | Medium | [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/334.%20Increasing%20Triplet%20Subsequence.java) |
 | Medium | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/380.%20Insert%20Delete%20GetRandom%20O(1).java) |
 | Medium | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/417.%20Pacific%20Atlantic%20Water%20Flow.java) |

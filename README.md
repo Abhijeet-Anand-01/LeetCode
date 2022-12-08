@@ -101,6 +101,7 @@
 | Easy | [796. Rotate String](https://leetcode.com/problems/rotate-string/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/796.%20Rotate%20String.java) |
 | Easy | [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/832.%20Flipping%20an%20Image.java) |
 | Easy | [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/867.%20Transpose%20Matrix.java) |
+| Easy | [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/872.%20Leaf-Similar%20Trees.java) |
 | Easy | [888. Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/888.%20Fair%20Candy%20Swap.java) |
 | Easy | [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/905.%20Sort%20Array%20By%20Parity.java) |
 | Easy | [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/922.%20Sort%20Array%20By%20Parity%20II.java) |
@@ -168,7 +169,6 @@
 | Easy | [2395. Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/2395.%20Find%20Subarrays%20With%20Equal%20Sum.java) |
 | Easy | [2418. Sort the People](https://leetcode.com/problems/sort-the-people/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/2418.%20Sort%20the%20People.java) |
 | Easy | [2451. Odd String Difference](https://leetcode.com/problems/odd-string-difference/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/2451.%20Odd%20String%20Difference.java) |
-| Easy | []() | [ Solution ]() |
 | | []() | []() |
 | | []() | []() |
 | | []() | []() |

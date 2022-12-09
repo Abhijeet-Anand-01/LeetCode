@@ -269,6 +269,7 @@
 | Medium | [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/981.%20Time%20Based%20Key-Value%20Store.java) |
 | Medium | [985. Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/985.%20Sum%20of%20Even%20Numbers%20After%20Queries.java) |
 | Medium | [1010. Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/1010.%20Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060.java) |
+| Medium | [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor.java) |
 | Medium | [1169. Invalid Transactions](https://leetcode.com/problems/invalid-transactions/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/1169.%20Invalid%20Transactions.java) |
 | Medium | [1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/1239.%20Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters.java) |
 | Medium | [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.java) |
@@ -289,7 +290,6 @@
 | Medium | [2396. Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2396.%20Strictly%20Palindromic%20Number.java) |
 | Medium | [2410. Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2410.%20Maximum%20Matching%20of%20Players%20With%20Trainers.java) |
 | Medium | [2452. Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2452.%20Words%20Within%20Two%20Edits%20of%20Dictionary.java) |
-| Medium | []() | [ Solution ]() |
 | | []() | []() |
 | | []() | []() |
 | | []() | []() |

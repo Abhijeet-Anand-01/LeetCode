@@ -317,6 +317,7 @@
 | Hard | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/41.%20First%20Missing%20Positive.java) |
 | Hard | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/42.%20Trapping%20Rain%20Water.java) |
 | Hard | [140. Word Break II](https://leetcode.com/problems/word-break-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/140.%20Word%20Break%20II.java) |
+| Hard | [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/149.%20Max%20Points%20on%20a%20Line.java) |
 | Hard | [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/188.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.java) |
 | Hard | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/224.%20Basic%20Calculator.java) |
 | Hard | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/295.%20Find%20Median%20from%20Data%20Stream.java) |
@@ -333,4 +334,3 @@
 | Hard | [1335. Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/1335.%20Minimum%20Difficulty%20of%20a%20Job%20Schedule.java) |
 | Hard | [1531. String Compression II](https://leetcode.com/problems/string-compression-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/1531.%20String%20Compression%20II.java) |
 | Hard | []() | [ Solution ]() |
-

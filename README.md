@@ -43,6 +43,7 @@
 | Easy | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/219.%20Contains%20Duplicate%20II.java) |
 | Easy | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/226.%20Invert%20Binary%20Tree.java) |
 | Easy | [231. Power of Two](https://leetcode.com/problems/power-of-two/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/231.%20Power%20of%20Two.java) |
+| Easy | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/232.%20Implement%20Queue%20using%20Stacks.java) |
 | Easy | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/234.%20Palindrome%20Linked%20List.java) |
 | Easy | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.java) |
 | Easy | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/242.%20Valid%20Anagram.java) |

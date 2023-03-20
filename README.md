@@ -82,6 +82,7 @@
 | Easy | [561. Array Partition I](https://leetcode.com/problems/array-partition-i/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/561.%20Array%20Partition%20I.java) |
 | Easy | [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/566.%20Reshape%20the%20Matrix.java) |
 | Easy | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/572.%20Subtree%20of%20Another%20Tree.java) |
+| Easy | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/605.%20Can%20Place%20Flowers.java) |
 | Easy | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/617.%20Merge%20Two%20Binary%20Trees.java) |
 | Easy | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/628.%20Maximum%20Product%20of%20Three%20Numbers.java) |
 | Easy | [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/637.%20Average%20of%20Levels%20in%20Binary%20Tree.java) |

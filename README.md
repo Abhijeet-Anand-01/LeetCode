@@ -325,6 +325,7 @@
 | Medium | [2396. Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2396.%20Strictly%20Palindromic%20Number.java) |
 | Medium | [2410. Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2410.%20Maximum%20Matching%20of%20Players%20With%20Trainers.java) |
 | Medium | [2452. Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2452.%20Words%20Within%20Two%20Edits%20of%20Dictionary.java) |
+| Medium | [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2492.%20Minimum%20Score%20of%20a%20Path%20Between%20Two%20Cities.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | []() |
 | | []() | []() |

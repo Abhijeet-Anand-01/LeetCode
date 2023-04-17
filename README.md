@@ -338,6 +338,7 @@
 | Medium | [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2492.%20Minimum%20Score%20of%20a%20Path%20Between%20Two%20Cities.java) |
 | Medium | [2606. Find the Substring With Maximum Cost](https://leetcode.com/problems/find-the-substring-with-maximum-cost/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2606.%20Find%20the%20Substring%20With%20Maximum%20Cost.java) |
 | Medium | []() | [ Solution ]() |
+| Medium | []() | [ Solution ]() |
 | | []() | []() |
 | | []() | []() |
 | | []() | []() |

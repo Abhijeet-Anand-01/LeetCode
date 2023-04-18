@@ -339,6 +339,7 @@
 | Medium | [2606. Find the Substring With Maximum Cost](https://leetcode.com/problems/find-the-substring-with-maximum-cost/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2606.%20Find%20the%20Substring%20With%20Maximum%20Cost.java) |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
+| Medium | []() | [ Solution ]() |
 | | []() | []() |
 | | []() | []() |
 | | []() | []() |

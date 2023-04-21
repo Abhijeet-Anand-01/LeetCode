@@ -357,6 +357,7 @@
 | Hard | [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/446.%20Arithmetic%20Slices%20II%20-%20Subsequence.java) |
 | Hard | [732. My Calendar III](https://leetcode.com/problems/my-calendar-iii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/732.%20My%20Calendar%20III.java) |
 | Hard | [834. Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/834.%20Sum%20of%20Distances%20in%20Tree.java) |
+| Hard | [879. Profitable Schemes](https://leetcode.com/problems/profitable-schemes/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/879.%20Profitable%20Schemes.java) |
 | Hard | [899. Orderly Queue](https://leetcode.com/problems/orderly-queue/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/899.%20Orderly%20Queue.java) |
 | Hard | [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/980.%20Unique%20Paths%20III.java) |
 | Hard | [1095. Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/1095.%20Find%20in%20Mountain%20Array.java) |
@@ -366,6 +367,5 @@
 | Hard | [1531. String Compression II](https://leetcode.com/problems/string-compression-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/1531.%20String%20Compression%20II.java) |
 | Hard | [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/1857.%20Largest%20Color%20Value%20in%20a%20Directed%20Graph.java) |
 | Hard | [2246. Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/2246.%20Longest%20Path%20With%20Different%20Adjacent%20Characters.java) |
-| Hard | []() | [ Solution ]() |
 | Hard | []() | [ Solution ]() |
 | Hard | []() | [ Solution ]() |

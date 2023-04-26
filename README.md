@@ -48,6 +48,7 @@
 | Easy | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.java) |
 | Easy | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/242.%20Valid%20Anagram.java) |
 | Easy | [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/257.%20Binary%20Tree%20Paths.java) |
+| Easy | [258. Add Digits](https://leetcode.com/problems/add-digits/description/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/258.%20Add%20Digits.java) |
 | Easy | [268. Missing Number](https://leetcode.com/problems/missing-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/268.%20Missing%20Number.java) |
 | Easy | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/278.%20First%20Bad%20Version.java) |
 | Easy | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/283.%20Move%20Zeroes.java) |

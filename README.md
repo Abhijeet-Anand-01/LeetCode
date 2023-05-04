@@ -277,6 +277,7 @@
 | Medium | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/560.%20Subarray%20Sum%20Equals%20K.java) |
 | Medium | [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/622.%20Design%20Circular%20Queue.java) |
 | Medium | [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/623.%20Add%20One%20Row%20to%20Tree.java) |
+| Medium | [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/649.%20Dota2%20Senate.java) |
 | Medium | [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/692.%20Top%20K%20Frequent%20Words.java) |
 | Medium | [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/658.%20Find%20K%20Closest%20Elements.java) |
 | Medium | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/695.%20Max%20Area%20of%20Island.java) |
@@ -341,7 +342,6 @@
 | Medium | [2452. Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2452.%20Words%20Within%20Two%20Edits%20of%20Dictionary.java) |
 | Medium | [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2492.%20Minimum%20Score%20of%20a%20Path%20Between%20Two%20Cities.java) |
 | Medium | [2606. Find the Substring With Maximum Cost](https://leetcode.com/problems/find-the-substring-with-maximum-cost/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2606.%20Find%20the%20Substring%20With%20Maximum%20Cost.java) |
-| Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | []() |
 | | []() | []() |

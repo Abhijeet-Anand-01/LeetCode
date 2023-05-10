@@ -64,6 +64,7 @@
 | Easy | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/374.%20Guess%20Number%20Higher%20or%20Lower.java) |
 | Easy | [383. Ransom Note](https://leetcode.com/problems/ransom-note/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/383.%20Ransom%20Note.java) |
 | Easy | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/387.%20First%20Unique%20Character%20in%20a%20String.java) |
+| Easy | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/392.%20Is%20Subsequence.java) |
 | Easy | [401. Binary Watch](https://leetcode.com/problems/binary-watch/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/401.%20Binary%20Watch.java) |
 | Easy | [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/404.%20Sum%20of%20Left%20Leaves.java) |
 | Easy | [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/409.%20Longest%20Palindrome.javax) |
@@ -180,7 +181,6 @@
 | Easy | [2418. Sort the People](https://leetcode.com/problems/sort-the-people/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/2418.%20Sort%20the%20People.java) |
 | Easy | [2451. Odd String Difference](https://leetcode.com/problems/odd-string-difference/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/2451.%20Odd%20String%20Difference.java) |
 | Easy | [2605. Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/2605.%20Form%20Smallest%20Number%20From%20Two%20Digit%20Arrays.java) |
-| Easy | []() | [ Solution ]() |
 | Easy | []() | [ Solution ]() |
 | | []() | []() |
 | | []() | []() |

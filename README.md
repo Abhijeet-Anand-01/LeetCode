@@ -213,6 +213,7 @@
 | Medium | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/54.%20Spiral%20Matrix.java) |
 | Medium | [55. Jump Game](https://leetcode.com/problems/jump-game/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/55.%20Jump%20Game.java) |
 | Medium | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/56.%20Merge%20Intervals.java) |
+| Medium | [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/59.%20Spiral%20Matrix%20II.java) |
 | Medium | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/62.%20Unique%20Paths.java) |
 | Medium | [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/63.%20Unique%20Paths%20II.java) |
 | Medium | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/64.%20Minimum%20Path%20Sum.java) |

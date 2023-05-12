@@ -238,6 +238,7 @@
 | Medium | [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.java) |
 | Medium | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.java) |
 | Medium | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.java) |
+| Medium | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/128.%20Longest%20Consecutive%20Sequence.java) |
 | Medium | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/129.%20Sum%20Root%20to%20Leaf%20Numbers.java) |
 | Medium | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/131.%20Palindrome%20Partitioning.java) |
 | Medium | [137. Single Number II](https://leetcode.com/problems/single-number-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/137.%20Single%20Number%20II.java) |
@@ -348,7 +349,6 @@
 | Medium | [2452. Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2452.%20Words%20Within%20Two%20Edits%20of%20Dictionary.java) |
 | Medium | [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2492.%20Minimum%20Score%20of%20a%20Path%20Between%20Two%20Cities.java) |
 | Medium | [2606. Find the Substring With Maximum Cost](https://leetcode.com/problems/find-the-substring-with-maximum-cost/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2606.%20Find%20the%20Substring%20With%20Maximum%20Cost.java) |
-| Medium | []() | [ Solution ]() |
 | | []() | []() |
 | | []() | []() |
 | | []() | []() |

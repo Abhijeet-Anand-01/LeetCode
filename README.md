@@ -38,6 +38,7 @@
 | Easy | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/191.%20Number%20of%201%20Bits.java) |
 | Easy | [202. Happy Number](https://leetcode.com/problems/happy-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/202.%20Happy%20Number.java) |
 | Easy | [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/203.%20Remove%20Linked%20List%20Elements.java) |
+| Easy | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/205.%20Isomorphic%20Strings.java) |
 | Easy | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/206.%20Reverse%20Linked%20List.java) |
 | Easy | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/217.%20Contains%20Duplicate.java) |
 | Easy | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/219.%20Contains%20Duplicate%20II.java) |
@@ -181,7 +182,6 @@
 | Easy | [2418. Sort the People](https://leetcode.com/problems/sort-the-people/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/2418.%20Sort%20the%20People.java) |
 | Easy | [2451. Odd String Difference](https://leetcode.com/problems/odd-string-difference/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/2451.%20Odd%20String%20Difference.java) |
 | Easy | [2605. Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/2605.%20Form%20Smallest%20Number%20From%20Two%20Digit%20Arrays.java) |
-| Easy | []() | [ Solution ]() |
 | | []() | []() |
 | | []() | []() |
 | | []() | []() |

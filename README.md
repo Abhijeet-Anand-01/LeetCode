@@ -43,6 +43,7 @@
 | Easy | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/217.%20Contains%20Duplicate.java) |
 | Easy | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/219.%20Contains%20Duplicate%20II.java) |
 | Easy | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/226.%20Invert%20Binary%20Tree.java) |
+| Easy | [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [Solution  ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/228.%20Summary%20Ranges.java) |
 | Easy | [231. Power of Two](https://leetcode.com/problems/power-of-two/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/231.%20Power%20of%20Two.java) |
 | Easy | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/232.%20Implement%20Queue%20using%20Stacks.java) |
 | Easy | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/234.%20Palindrome%20Linked%20List.java) |

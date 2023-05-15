@@ -246,6 +246,7 @@
 | Medium | [139. Word Break](https://leetcode.com/problems/word-break/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/139.%20Word%20Break.java) |
 | Medium | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/150.%20Evaluate%20Reverse%20Polish%20Notation.java) |
 | Medium | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/151.%20Reverse%20Words%20in%20a%20String.java) |
+| Medium | [155. Min Stack](https://leetcode.com/problems/min-stack/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/155.%20Min%20Stack.java) |
 | Medium | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/162.%20Find%20Peak%20Element.java) |
 | Medium | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.java) |
 | Medium | [189. Rotate Array](https://leetcode.com/problems/rotate-array/description/?envType=study-plan&id=algorithm-i) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/189.%20Rotate%20Array.java) |

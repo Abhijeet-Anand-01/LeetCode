@@ -292,6 +292,7 @@
 | Medium | [729. My Calendar I](https://leetcode.com/problems/my-calendar-i/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/729.%20My%20Calendar%20I.java) |
 | Medium | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/739.%20Daily%20Temperatures.java) |
 | Medium | [763. Partition Labels](https://leetcode.com/problems/partition-labels/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/763.%20Partition%20Labels.java) |
+| Medium | [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/785.%20Is%20Graph%20Bipartite%3F.java) |
 | Medium | [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/797.%20All%20Paths%20From%20Source%20to%20Target.java) |
 | Medium | [838. Push Dominoes](https://leetcode.com/problems/push-dominoes/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/838.%20Push%20Dominoes.java) |
 | Medium | [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/841.%20Keys%20and%20Rooms.java) |

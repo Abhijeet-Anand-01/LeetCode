@@ -295,6 +295,7 @@
 | Medium | [763. Partition Labels](https://leetcode.com/problems/partition-labels/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/763.%20Partition%20Labels.java) |
 | Medium | [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/785.%20Is%20Graph%20Bipartite%3F.java) |
 | Medium | [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/797.%20All%20Paths%20From%20Source%20to%20Target.java) |
+| Medium | [837. New 21 Game](https://leetcode.com/problems/new-21-game/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/837.%20New%2021%20Game.java) |
 | Medium | [838. Push Dominoes](https://leetcode.com/problems/push-dominoes/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/838.%20Push%20Dominoes.java) |
 | Medium | [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/841.%20Keys%20and%20Rooms.java) |
 | Medium | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/852.%20Peak%20Index%20in%20a%20Mountain%20Array.java) |

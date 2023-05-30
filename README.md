@@ -97,6 +97,7 @@
 | Easy | [671. Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree.java) |
 | Easy | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/680.%20Valid%20Palindrome%20II.java) |
 | Easy | [704. Binary Search](https://leetcode.com/problems/binary-search/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/704.%20Binary%20Search.java) |
+| Easy | [705. Design HashSet](https://leetcode.com/problems/design-hashset/) | [Solution  ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/705.%20Design%20HashSet.java) |
 | Easy | [709. To Lower Case](https://leetcode.com/problems/to-lower-case/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/709.%20To%20Lower%20Case.java) |
 | Easy | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/724.%20Find%20Pivot%20Index.java) |
 | Easy | [733. Flood Fill](https://leetcode.com/problems/flood-fill/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/733.%20Flood%20Fill.java) |
@@ -184,6 +185,7 @@
 | Easy | [2418. Sort the People](https://leetcode.com/problems/sort-the-people/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/2418.%20Sort%20the%20People.java) |
 | Easy | [2451. Odd String Difference](https://leetcode.com/problems/odd-string-difference/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/2451.%20Odd%20String%20Difference.java) |
 | Easy | [2605. Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/2605.%20Form%20Smallest%20Number%20From%20Two%20Digit%20Arrays.java) |
+| Easy | []() | [Solution  ]() |
 | | []() | []() |
 | | []() | []() |
 | | []() | []() |

@@ -316,6 +316,7 @@
 | Medium | [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor.java) |
 | Medium | [1035. Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/1035.%20Uncrossed%20Lines.java) |
 | Medium | [1061. Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/1061.%20Lexicographically%20Smallest%20Equivalent%20String.java) |
+| Medium | [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/1140.%20Stone%20Game%20II.java) |
 | Medium | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/1143.%20Longest%20Common%20Subsequence.java) |
 | Medium | [1169. Invalid Transactions](https://leetcode.com/problems/invalid-transactions/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/1169.%20Invalid%20Transactions.java) |
 | Medium | [1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/1239.%20Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters.java) |
@@ -324,6 +325,7 @@
 | Medium | [1328. Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/1328.%20Break%20a%20Palindrome.java) |
 | Medium | [1329. Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/1329.%20Sort%20the%20Matrix%20Diagonally.java) |
 | Medium | [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree.java) |
+| Medium | [1396. Design Underground System](https://leetcode.com/problems/design-underground-system/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/1396.%20Design%20Underground%20System.java) |
 | Medium | [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards.java) |
 | Medium | [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.java) |
 | Medium | [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/1456.%20Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length.java) |
@@ -362,7 +364,6 @@
 | Medium | [2466. Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2466.%20Count%20Ways%20To%20Build%20Good%20Strings.java) |
 | Medium | [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2492.%20Minimum%20Score%20of%20a%20Path%20Between%20Two%20Cities.java) |
 | Medium | [2606. Find the Substring With Maximum Cost](https://leetcode.com/problems/find-the-substring-with-maximum-cost/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2606.%20Find%20the%20Substring%20With%20Maximum%20Cost.java) |
-| Medium | [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/1140.%20Stone%20Game%20II.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | []() |
 | | []() | []() |

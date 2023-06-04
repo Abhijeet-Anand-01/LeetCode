@@ -284,6 +284,7 @@
 | Medium | [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/523.%20Continuous%20Subarray%20Sum.java) |
 | Medium | [526. Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/526.%20Beautiful%20Arrangement.java) |
 | Medium | [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/532.%20K-diff%20Pairs%20in%20an%20Array.java) |
+| Medium | [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/547.%20Number%20of%20Provinces.java) |
 | Medium | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/560.%20Subarray%20Sum%20Equals%20K.java) |
 | Medium | [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/622.%20Design%20Circular%20Queue.java) |
 | Medium | [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/623.%20Add%20One%20Row%20to%20Tree.java) |

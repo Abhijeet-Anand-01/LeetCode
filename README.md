@@ -148,6 +148,7 @@
 | Easy | [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1470.%20Shuffle%20the%20Array.java) |
 | Easy | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1480.%20Running%20Sum%20of%201d%20Array.java) |
 | Easy | [1491. Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.java) |
+| Easy | [1502. Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | [Solution  ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1502.%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence.java) |
 | Easy | [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1512.%20Number%20of%20Good%20Pairs.java) |
 | Easy | [1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.java) |
 | Easy | [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1528.%20Shuffle%20String.java) |
@@ -186,6 +187,7 @@
 | Easy | [2418. Sort the People](https://leetcode.com/problems/sort-the-people/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/2418.%20Sort%20the%20People.java) |
 | Easy | [2451. Odd String Difference](https://leetcode.com/problems/odd-string-difference/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/2451.%20Odd%20String%20Difference.java) |
 | Easy | [2605. Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/2605.%20Form%20Smallest%20Number%20From%20Two%20Digit%20Arrays.java) |
+| Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | | []() | []() |
 | | []() | []() |

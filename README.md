@@ -347,6 +347,8 @@
 | Medium | [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/1706.%20Where%20Will%20the%20Ball%20Fall.java) |
 | Medium | [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List.java) |
 | Medium | [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/1770.%20Maximum%20Score%20from%20Performing%20Multiplication%20Operations.java) |
+| Medium | [1802. Maximum Value at a Given Index in a Bounded Array
+](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/1802.%20Maximum%20Value%20at%20a%20Given%20Index%20in%20a%20Bounded%20Array.java) |
 | Medium | [1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/1833.%20Maximum%20Ice%20Cream%20Bars.java) |
 | Medium | [1834. Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/1834.%20Single-Threaded%20CPU.java) |
 | Medium | [1877. Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array.java) |
@@ -372,7 +374,6 @@
 | Medium | [2466. Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2466.%20Count%20Ways%20To%20Build%20Good%20Strings.java) |
 | Medium | [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2492.%20Minimum%20Score%20of%20a%20Path%20Between%20Two%20Cities.java) |
 | Medium | [2606. Find the Substring With Maximum Cost](https://leetcode.com/problems/find-the-substring-with-maximum-cost/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2606.%20Find%20the%20Substring%20With%20Maximum%20Cost.java) |
-| Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | []() |
 | | []() | []() |

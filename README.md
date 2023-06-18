@@ -415,3 +415,4 @@
 | Hard | [1964. Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/1964.%20Find%20the%20Longest%20Valid%20Obstacle%20Course%20at%20Each%20Position.java) |
 | Hard | [2246. Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/2246.%20Longest%20Path%20With%20Different%20Adjacent%20Characters.java) |
 | Hard | []() | [ Solution ]() |
+| Hard | []() | [ Solution ]() |

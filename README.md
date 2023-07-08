@@ -430,4 +430,5 @@
 | Hard | [1970. Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross.java) |
 | Hard | [2246. Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/2246.%20Longest%20Path%20With%20Different%20Adjacent%20Characters.java) |
 | Hard | [2448. Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/2448.%20Minimum%20Cost%20to%20Make%20Array%20Equal.java) |
+| Hard | [2551. Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/2551.%20Put%20Marbles%20in%20Bags.java) |
 | Hard | []() | [ Solution ]() |

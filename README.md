@@ -252,6 +252,7 @@
 | Medium | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/131.%20Palindrome%20Partitioning.java) |
 | Medium | [137. Single Number II](https://leetcode.com/problems/single-number-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/137.%20Single%20Number%20II.java) |
 | Medium | [139. Word Break](https://leetcode.com/problems/word-break/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/139.%20Word%20Break.java) |
+| Medium | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/146.%20LRU%20Cache.java) |
 | Medium | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/150.%20Evaluate%20Reverse%20Polish%20Notation.java) |
 | Medium | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/151.%20Reverse%20Words%20in%20a%20String.java) |
 | Medium | [155. Min Stack](https://leetcode.com/problems/min-stack/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/155.%20Min%20Stack.java) |

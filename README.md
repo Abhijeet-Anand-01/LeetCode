@@ -281,6 +281,7 @@
 | Medium | [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/382.%20Linked%20List%20Random%20Node) |
 | Medium | [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/399.%20Evaluate%20Division.java) |
 | Medium | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/417.%20Pacific%20Atlantic%20Water%20Flow.java) |
+| Medium | [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/435.%20Non-overlapping%20Intervals.java) |
 | Medium | [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/437.%20Path%20Sum%20III.java) |
 | Medium | [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/442.%20Find%20All%20Duplicates%20in%20an%20Array.java) |
 | Medium | [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/445.%20Add%20Two%20Numbers%20II.java) |

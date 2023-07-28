@@ -288,6 +288,7 @@
 | Medium | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/451.%20Sort%20Characters%20By%20Frequency.java) |
 | Medium | [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.java) |
 | Medium | [453. Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/453.%20Minimum%20Moves%20to%20Equal%20Array%20Elements.java) |
+| Medium | [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/486.%20Predict%20the%20Winner.java) |
 | Medium | [494. Target Sum](https://leetcode.com/problems/target-sum/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/494.%20Target%20Sum.java) |
 | Medium | [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/523.%20Continuous%20Subarray%20Sum.java) |
 | Medium | [526. Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/526.%20Beautiful%20Arrangement.java) |
@@ -395,7 +396,6 @@
 | Medium | [2466. Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2466.%20Count%20Ways%20To%20Build%20Good%20Strings.java) |
 | Medium | [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2492.%20Minimum%20Score%20of%20a%20Path%20Between%20Two%20Cities.java) |
 | Medium | [2606. Find the Substring With Maximum Cost](https://leetcode.com/problems/find-the-substring-with-maximum-cost/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2606.%20Find%20the%20Substring%20With%20Maximum%20Cost.java) |
-| Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | []() |
 | | []() | []() |

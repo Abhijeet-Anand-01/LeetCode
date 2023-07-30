@@ -415,6 +415,7 @@
 | Hard | [336. Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/336.%20Palindrome%20Pairs.java) |
 | Hard | [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/410.%20Split%20Array%20Largest%20Sum.java) |
 | Hard | [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/446.%20Arithmetic%20Slices%20II%20-%20Subsequence.java) |
+| Hard | [664. Strange Printer](https://leetcode.com/problems/strange-printer/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/664.%20Strange%20Printer.java) |
 | Hard | [732. My Calendar III](https://leetcode.com/problems/my-calendar-iii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/732.%20My%20Calendar%20III.java) |
 | Hard | [834. Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/834.%20Sum%20of%20Distances%20in%20Tree.java) |
 | Hard | [839. Similar String Groups](https://leetcode.com/problems/similar-string-groups/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/839.%20Similar%20String%20Groups.java) |

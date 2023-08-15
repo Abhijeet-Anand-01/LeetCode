@@ -237,6 +237,7 @@
 | Medium | [79. Word Search](https://leetcode.com/problems/word-search/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/79.%20Word%20Search.java) |
 | Medium | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.java) |
 | Medium | [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.java) |
+| Medium | [86. Partition List](https://leetcode.com/problems/partition-list/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/86.%20Partition%20List.java) |
 | Medium | [89. Gray Code](https://leetcode.com/problems/gray-code/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/89.%20Gray%20Code.java) |
 | Medium | [90. Subsets II](https://leetcode.com/problems/subsets-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/90.%20Subsets%20II.java) |
 | Medium | [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/95.%20Unique%20Binary%20Search%20Trees%20II.java) |

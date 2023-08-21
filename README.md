@@ -77,6 +77,7 @@
 | Easy | [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/441.%20Arranging%20Coins.java) |
 | Easy | [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.java) |
 | Easy | [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/455.%20Assign%20Cookies.java) |
+| Easy | [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [Solution  ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/459.%20Repeated%20Substring%20Pattern.java) |
 | Easy | [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/461.%20Hamming%20Distance.java) |
 | Easy | [476. Number Complement](https://leetcode.com/problems/number-complement/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/476.%20Number%20Complement.java) |
 | Easy | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/485.%20Max%20Consecutive%20Ones.java) |
@@ -189,8 +190,6 @@
 | Easy | [2418. Sort the People](https://leetcode.com/problems/sort-the-people/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/2418.%20Sort%20the%20People.java) |
 | Easy | [2451. Odd String Difference](https://leetcode.com/problems/odd-string-difference/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/2451.%20Odd%20String%20Difference.java) |
 | Easy | [2605. Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/2605.%20Form%20Smallest%20Number%20From%20Two%20Digit%20Arrays.java) |
-| Easy | []() | [Solution  ]() |
-| Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | | []() | []() |
 | | []() | []() |

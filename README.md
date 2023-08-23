@@ -409,6 +409,7 @@
 | Medium | [2616. Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2616.%20Minimize%20the%20Maximum%20Difference%20of%20Pairs.java) |
 | Medium | [2811. Check if it is Possible to Split Array](https://leetcode.com/problems/check-if-it-is-possible-to-split-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2811.%20Check%20if%20it%20is%20Possible%20to%20Split%20Array.java) |
 | Medium | []() | [ Solution ]() |
+| Medium | []() | [ Solution ]() |
 | | []() | []() |
 | | []() | []() |
 | | []() | []() |

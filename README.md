@@ -416,6 +416,7 @@
 | Hard | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/23.%20Merge%20k%20Sorted%20Lists.java) |
 | Hard | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/41.%20First%20Missing%20Positive.java) |
 | Hard | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/42.%20Trapping%20Rain%20Water.java) |
+| Hard | [68. Text Justification](https://leetcode.com/problems/text-justification/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/68.%20Text%20Justification.java) |
 | Hard | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/72.%20Edit%20Distance.java) |
 | Hard | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/124.%20Binary%20Tree%20Maximum%20Path%20Sum.java) |
 | Hard | [135. Candy](https://leetcode.com/problems/candy/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/135.%20Candy.java) |

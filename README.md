@@ -44,6 +44,7 @@
 | Easy | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/206.%20Reverse%20Linked%20List.java) |
 | Easy | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/217.%20Contains%20Duplicate.java) |
 | Easy | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/219.%20Contains%20Duplicate%20II.java) |
+| Easy | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Solution  ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/225.%20Implement%20Stack%20using%20Queues.java) |
 | Easy | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/226.%20Invert%20Binary%20Tree.java) |
 | Easy | [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [Solution  ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/228.%20Summary%20Ranges.java) |
 | Easy | [231. Power of Two](https://leetcode.com/problems/power-of-two/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/231.%20Power%20of%20Two.java) |
@@ -190,7 +191,6 @@
 | Easy | [2418. Sort the People](https://leetcode.com/problems/sort-the-people/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/2418.%20Sort%20the%20People.java) |
 | Easy | [2451. Odd String Difference](https://leetcode.com/problems/odd-string-difference/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/2451.%20Odd%20String%20Difference.java) |
 | Easy | [2605. Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/2605.%20Form%20Smallest%20Number%20From%20Two%20Digit%20Arrays.java) |
-| Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | | []() | []() |
 | | []() | []() |

@@ -198,6 +198,7 @@
 | Medium | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2.%20Add%20Two%20Numbers.java) |
 | Medium | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/3.%20Longest%20Substring%20Without%20Repeating%20Characters.java) |
 | Medium | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/5.%20Longest%20Palindromic%20Substring.java) |
+| Medium | [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/6.%20Zigzag%20Conversion.java) |
 | Medium | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/7.%20Reverse%20Integer.java) |
 | Medium | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/11.%20Container%20With%20Most%20Water.java) |
 | Medium | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/12.%20Integer%20to%20Roman.java) |

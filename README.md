@@ -423,6 +423,7 @@
 | | []() | []() |
 | | []() | []() |
 | | []() | []() |
+| Hard | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/4.%20Median%20of%20Two%20Sorted%20Arrays.java) |
 | Hard | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/23.%20Merge%20k%20Sorted%20Lists.java) |
 | Hard | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/41.%20First%20Missing%20Positive.java) |
 | Hard | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/42.%20Trapping%20Rain%20Water.java) |

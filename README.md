@@ -323,6 +323,7 @@
 | Medium | [767. Reorganize String](https://leetcode.com/problems/reorganize-string/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/767.%20Reorganize%20String.java) |
 | Medium | [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/785.%20Is%20Graph%20Bipartite%3F.java) |
 | Medium | [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/797.%20All%20Paths%20From%20Source%20to%20Target.java) |
+| Medium | [799. Champagne Tower](https://leetcode.com/problems/champagne-tower/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/799.%20Champagne%20Tower.java) |
 | Medium | [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/802.%20Find%20Eventual%20Safe%20States.java) |
 | Medium | [837. New 21 Game](https://leetcode.com/problems/new-21-game/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/837.%20New%2021%20Game.java) |
 | Medium | [838. Push Dominoes](https://leetcode.com/problems/push-dominoes/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/838.%20Push%20Dominoes.java) |

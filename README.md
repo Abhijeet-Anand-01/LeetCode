@@ -198,6 +198,9 @@
 | | []() | []() |
 | | []() | []() |
 | | []() | []() |
+| | []() | []() |
+| | []() | []() |
+| | []() | []() |
 | Medium | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2.%20Add%20Two%20Numbers.java) |
 | Medium | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/3.%20Longest%20Substring%20Without%20Repeating%20Characters.java) |
 | Medium | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/5.%20Longest%20Palindromic%20Substring.java) |
@@ -427,6 +430,9 @@
 | Medium | [2707. Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2707.%20Extra%20Characters%20in%20a%20String.java) |
 | Medium | [2811. Check if it is Possible to Split Array](https://leetcode.com/problems/check-if-it-is-possible-to-split-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/2811.%20Check%20if%20it%20is%20Possible%20to%20Split%20Array.java) | 
 | Medium | []() | [ Solution ]() |
+| | []() | []() |
+| | []() | []() |
+| | []() | []() |
 | | []() | []() |
 | | []() | []() |
 | | []() | []() |

@@ -195,6 +195,7 @@
 | Easy | [2605. Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/2605.%20Form%20Smallest%20Number%20From%20Two%20Digit%20Arrays.java) |
 | Easy | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence) | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
 | | []() | []() |
 | | []() | []() |
 | | []() | []() |

@@ -194,7 +194,7 @@
 | Easy | [2451. Odd String Difference](https://leetcode.com/problems/odd-string-difference/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/2451.%20Odd%20String%20Difference.java) |
 | Easy | [2605. Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/2605.%20Form%20Smallest%20Number%20From%20Two%20Digit%20Arrays.java) |
 | Easy | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence) | [Solution  ]() |
-| Easy | []() | [Solution  ]() |
+| Easy | [706. Design HashMap](https://leetcode.com/problems/design-hashmap/) | [Solution  ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/706.%20Design%20HashMap.java) |
 | Easy | []() | [Solution  ]() |
 | | []() | []() |
 | | []() | []() |

@@ -293,6 +293,7 @@
 | Medium | [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/319.%20Bulb%20Switcher.java) |
 | Medium | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/328.%20Odd%20Even%20Linked%20List.java) |
 | Medium | [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/334.%20Increasing%20Triplet%20Subsequence.java) |
+| Medium | [343. Integer Break](https://leetcode.com/problems/integer-break/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/343.%20Integer%20Break.java) |
 | Medium | [373. Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/373.%20Find%20K%20Pairs%20with%20Smallest%20Sums.java) |
 | Medium | [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/377.%20Combination%20Sum%20IV.java) |
 | Medium | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/380.%20Insert%20Delete%20GetRandom%20O(1).java) |

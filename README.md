@@ -196,6 +196,7 @@
 | Easy | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence) | [Solution  ]() |
 | Easy | [706. Design HashMap](https://leetcode.com/problems/design-hashmap/) | [Solution  ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/706.%20Design%20HashMap.java) |
 | Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
 | | []() | []() |
 | | []() | []() |
 | | []() | []() |
